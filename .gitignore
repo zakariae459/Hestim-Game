@@ -1,0 +1,13 @@
+client_secret.json
+token.pickle
+login_info.json
+.idea/
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+.vscode/
+*.log
+main.py.bak
+*.bak
